@@ -5,5 +5,3 @@ components:
   - name: kai-dev-container
     container:
       image: quay.io/rbrhssa/kai-devspaces:latest
-      memoryLimit: 1Gi
-      cpuLimit: '1'
