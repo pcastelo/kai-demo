@@ -5,4 +5,4 @@ components:
   - name: kai-dev-container
     container:
       image: quay.io/<your-username>/kai-devspaces:latest
-      memoryLimit: 2Gi
+      memoryLimit: 1Gi
