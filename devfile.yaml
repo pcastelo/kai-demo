@@ -6,3 +6,4 @@ components:
     container:
       image: quay.io/pcastelo/kai-devspaces:latest
       memoryLimit: 1Gi
+      cpuLimit: '1'
