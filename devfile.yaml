@@ -4,4 +4,4 @@ metadata:
 components:
   - name: kai-dev-container
     container:
-      image: quay.io/pcastelo/kai-devspaces:1.0
+      image: quay.io/rbrhssa/kai-devspaces:latest
